@@ -209,7 +209,9 @@ footer li a:visited {
 }
 
 @media (max-width: 480px) {
-
+    .login {
+        padding: 5px;
+    }
 }
 
 
