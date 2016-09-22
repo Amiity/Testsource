@@ -4,7 +4,6 @@ body {
     background-size: cover;
 }
 
-
 input[type="text"],
 input[type="password"],
 input[type="submit"] {
@@ -13,5 +12,11 @@ input[type="submit"] {
     padding: 5px;
     width: 100%;
     border-radius: 2px;
+
+}
+
+section {
+
+    min-height: calc(100vh - 60px);
 
 }
