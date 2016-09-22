@@ -149,22 +149,14 @@ input[type="checkbox"] {
     margin-right: 5px;
 }
 
-input[type="submit"] {
 
-    background-color: #4099FF;
-    padding: 8px;
-    color: #fff;
-    border: 0;
-    cursor: pointer;
-    margin-bottom: 10px;
-    border-radius: 2px;
-}
 
 .btn-wrapper{
 
     width:100%;
     /*background-color: red;*/
     text-align: right;
+    padding-top:25px;
 
 }
 
@@ -175,12 +167,23 @@ input[type="submit"] {
     width:100px;
     background-color: #fff;
     color:initial;
+    padding: 5px;
+    border: 0;
+    cursor: pointer;
+    margin-bottom: 10px;
+    border-radius: 2px;
 
 
 }
 .next{
-
+    background-color: #4099FF;
+    color:#fff;
     width:100px;
+    padding: 5px;
+    border: 0;
+    cursor: pointer;
+    margin-bottom: 10px;
+    border-radius: 2px;
 
 
 
